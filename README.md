@@ -48,4 +48,4 @@ Resource types can be submitted directly to this repo through a fork-and-PR work
 ## Where to get help
 There are two main channels that the Concourse community uses for getting help and discussing potential changes.
   1. Get help in Discord in the #resource-types channel. [Click here](https://discord.gg/MeRxXKW) to get access.
-  1. Discuss new ideas in the [Concourse forums](http://discuss.concourse-ci.org/)
+  1. Discuss new ideas in the [Concourse forums](http://discuss.concourse-ci.org/). FIRST
